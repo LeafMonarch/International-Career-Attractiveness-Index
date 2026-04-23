@@ -45,3 +45,6 @@ https://ilostat.ilo.org/topics/working-time/
 
 [Global Cost of Living] [23rd April 2026]
 https://www.kaggle.com/datasets/mvieira101/global-cost-of-living
+
+[World Happiness Report] [23rd April 2026]
+https://www.worldhappiness.report/data-sharing/
