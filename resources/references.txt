@@ -7,19 +7,19 @@ https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
 ============================ Job Market Accessibility & Growth Datasets =============================
 =====================================================================================================
 
-[Unemployment, total (% of total labor force) (modeled ILO estimate)] [19th April 2026]
+[Unemployment, total (% of total labor force) (modeled ILO estimate)] [19th April 2026] [Done]
 https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS
 
-[Employment to population ratio, 15+, total (%) (modeled ILO estimate)] [19th April 2026]
+[Employment to population ratio, 15+, total (%) (modeled ILO estimate)] [19th April 2026] [Done]
 https://data.worldbank.org/indicator/SL.EMP.TOTL.SP.ZS
 
-[GDP per capita (current US$)] [19th April 2026]
+[GDP per capita (current US$)] [19th April 2026] [Done]
 https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
 
-[Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)] [19th April 2026]
+[Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)] [19th April 2026] [Done]
 https://data.worldbank.org/indicator/SL.TLF.CACT.ZS
 
-[Population growth (annual %)] [19th April 2026]
+[Population growth (annual %)] [19th April 2026] [Done]
 https://data.worldbank.org/indicator/SP.POP.GROW
 
 
@@ -28,13 +28,16 @@ https://data.worldbank.org/indicator/SP.POP.GROW
 ================================ Work Conditions & Benefits Datasets ================================
 =====================================================================================================
 
-[Public Holidays] [19th April 2026] [API]
+[Public Holidays] [19th April 2026] [API] [Not used]
 https://learn.microsoft.com/en-us/azure/open-datasets/dataset-public-holidays?tabs=azureml-opendatasets 
 
-[The Countries With the Most and Least Paid Leave in 2025] [19th April 2026]
+[Holidays] [25th April 2026] [Below has it, so not used]
+https://pypi.org/project/holidays/
+
+[The Countries With the Most and Least Paid Leave in 2025] [19th April 2026] [SCRAPE] [Done]
 https://www.voronoiapp.com/work/The-Countries-With-the-Most-and-Least-Paid-Leave-in-2025-6025#dataset 
 
-[Average hours worked per week per employed person, latest year] [19th April 2026]
+[Average hours worked per week per employed person, latest year] [19th April 2026] [Done]
 https://ilostat.ilo.org/topics/working-time/
 
 
