@@ -51,3 +51,15 @@ https://www.kaggle.com/datasets/mvieira101/global-cost-of-living
 
 [World Happiness Report] [23rd April 2026]
 https://www.worldhappiness.report/data-sharing/
+
+
+
+=====================================================================================================
+========================================== External Indices =========================================
+=====================================================================================================
+
+[Happiest Countries in the World 2026] [19th May 2026]
+https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world
+
+[Human Development Index] [19th May 2026]
+https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
